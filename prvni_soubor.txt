@@ -1,2 +1,2 @@
-Tohle je testovacÃ­ Å™Ã¡dek od zaÄÃ¡tku repozitÃ¡Å™e. 
-ZmÄ›na tÃ¡ta :-)
+Tohle je testovací øádek od zaèátku repozitáøe. 
+Pøidal jsem další øádek ;)
