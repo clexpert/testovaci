@@ -1,2 +1,3 @@
-Tohle je testovací øádek od zaèátku repozitáøe. 
-Pøidal jsem další øádek ;)
+Tohle je testovacÃ­ Å™Ã¡dek od zaÄÃ¡tku repozitÃ¡Å™e. 
+PÅ™idal jsem dalÅ¡Ã­ Å™Ã¡dek ;)
+Tak 20.3.2016 mÄ›nÃ­m, resp. pÅ™idÃ¡vÃ¡m tÅ™etÃ­ Å™Ã¡dek. Zdar.
